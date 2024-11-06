@@ -14,9 +14,8 @@ Git: For version control and collaboration in development.
 
 The goal of these projects is to develop and demonstrate skills in frontend fundamentals, as well as to establish a solid foundation in web design and development principles. This collection is part of my frontend portfolio and serves as a stepping stone toward more complex projects.
 
+## URL
 
-URL
-
-https://github.com/EmilyLeticiaArcePicado/Frontend-Projects/tree/main/Sigle-PageCV
+[Frontend Projects - Sigle PageCV](https://github.com/EmilyLeticiaArcePicado/Frontend-Projects/tree/main/Sigle-PageCV)
 
 
